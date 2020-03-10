@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":util:test" external.linked.project.path="$MODULE_DIR$/../../../util" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+<module external.linked.project.id=":Problems-Points_on_the_2D_plane:test" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Points on the 2D plane" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
-    <output-test url="file://$MODULE_DIR$/../../../util/out/test/classes" />
-    <content url="file://$MODULE_DIR$/../../../util/src/test" />
-    <content url="file://$MODULE_DIR$/../../../util/test" />
+    <output-test url="file://$MODULE_DIR$/../../../../Problems/Points on the 2D plane/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Problems/Points on the 2D plane/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../Problems/Points on the 2D plane/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="util_main" />
+    <orderEntry type="module" module-name="Problems-Points_on_the_2D_plane_main" />
     <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:v6.0.1" level="project" />
     <orderEntry type="library" name="Gradle: com.github.stefanbirkner:system-rules:1.19.0" level="project" />
     <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.8.0" level="project" />
@@ -26,5 +27,5 @@
     <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.8.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="util_main" />
+  <component name="TestModuleProperties" production-module="Problems-Points_on_the_2D_plane_main" />
 </module>

@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Points on the 2D plane/Problems-Points_on_the_2D_plane.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Points on the 2D plane/Problems-Points_on_the_2D_plane.iml" group="Tic-Tac-Toe/Problems-Points_on_the_2D_plane" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Points on the 2D plane/Problems-Points_on_the_2D_plane_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Points on the 2D plane/Problems-Points_on_the_2D_plane_main.iml" group="Tic-Tac-Toe/Problems-Points_on_the_2D_plane" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Points on the 2D plane/Problems-Points_on_the_2D_plane_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Points on the 2D plane/Problems-Points_on_the_2D_plane_test.iml" group="Tic-Tac-Toe/Problems-Points_on_the_2D_plane" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" group="Tic-Tac-Toe" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task.iml" group="Tic-Tac-Toe/Tic-Tac-Toe-task" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_main.iml" group="Tic-Tac-Toe/Tic-Tac-Toe-task" />

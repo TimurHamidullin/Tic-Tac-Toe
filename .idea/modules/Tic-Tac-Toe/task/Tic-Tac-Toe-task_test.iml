@@ -2,7 +2,6 @@
 <module external.linked.project.id=":Tic-Tac-Toe-task:test" external.linked.project.path="$MODULE_DIR$/../../../../Tic-Tac-Toe/task" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Tic-Tac-Toe" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
     <output-test url="file://$MODULE_DIR$/../../../../Tic-Tac-Toe/task/out/test/classes" />
-    <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../Tic-Tac-Toe/task/src/test" />
     <content url="file://$MODULE_DIR$/../../../../Tic-Tac-Toe/task/test">
       <sourceFolder url="file://$MODULE_DIR$/../../../../Tic-Tac-Toe/task/test" isTestSource="true" />
